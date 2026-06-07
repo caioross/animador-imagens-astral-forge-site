@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import { LangProvider } from "../components/i18n";
 
-const GA_ID = "G-PLACEHOLDER3";
+const GA_ID = "G-25KM6Y2ZWV";
 
 export const metadata: Metadata = {
   title: "Animador de Imagens — Astral Forge",
